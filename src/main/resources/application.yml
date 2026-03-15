@@ -1,0 +1,23 @@
+spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/student_db1
+#    username: root
+#    password: charan
+#
+#  jpa:
+#    show-sql: true
+#
+#    hibernate:
+#      ddl-auto: update
+
+
+  profiles:
+    active: dev
+
+
+
+
+
+
+
